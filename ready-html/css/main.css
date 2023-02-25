@@ -21,11 +21,14 @@
 a{
 	text-decoration: none;
 	color: white;
+	font-family: raleway_f;
+	src: url(../fonts/raleway-black.woff2);
 }
 
 .lang{
 	text-align: left;
 	color: white;
+	text-decoration: none;
 }
 body {
 	background-color: #010101;
